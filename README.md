@@ -9,6 +9,7 @@ D. Wilson, A. Ringler, T. Storm, R.E. Anthony
 Contents
 ======
 
+* TempNetQC.m  - matlab script to estimate a local earthquake catalog and compute station signal to noise.
 * include folder which contains utilities needed to run.
 
 **External Dependencies:**
